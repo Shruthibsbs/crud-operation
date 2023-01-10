@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "Chris",
+      "email": "chmary@gmail.com",
+      "role": "Designer",
+      "status": "Inactive",
+      "profile": "https://picsum.photos/id/121/200/300",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "Christoper",
+      "email": "christ@gmail.com",
+      "status": "Active",
+      "role": "Developer",
+      "profile": "https://picsum.photos/id/109/200/300"
+    },
+    {
+      "id": 13,
+      "name": "Zen",
+      "email": "zmark@gmail.com",
+      "status": "Inactive",
+      "role": "Freelancer",
+      "profile": "https://picsum.photos/id/122/200/300"
+    },
+    {
+      "id": 14,
+      "name": "Petre",
+      "email": "petre@gmail.com",
+      "status": "Active",
+      "role": "Developer",
+      "profile": "https://picsum.photos/id/111/200/300"
+    },
+    {
+      "id": 15,
+      "name": "Johnny",
+      "email": "johnny@gmail.com",
+      "status": "Active",
+      "role": "Freelancer",
+      "profile": "https://picsum.photos/id/112/200/300"
+    },
+    {
+      "name": "Susen",
+      "email": "susen@gmail.com",
+      "role": "Intern",
+      "status": "Active",
+      "profile": "https://picsum.photos/id/1/200/300",
+      "id": 16
+    },
+    {
+      "name": "Benny",
+      "email": "benny@gmail.com",
+      "role": "Freelancer",
+      "status": "Inactive",
+      "profile": "https://picsum.photos/id/121/200/300",
+      "id": 18
+    },
+    {
+      "name": "Richard",
+      "email": "richard@gmail.com",
+      "role": "Manager",
+      "status": "Active",
+      "profile": "https://picsum.photos/id/230/200/300",
+      "id": 19
+    }
+  ]
+}
